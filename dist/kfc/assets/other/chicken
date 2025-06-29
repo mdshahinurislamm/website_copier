@@ -1,0 +1,2374 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Head Start -->
+<head wire:id="0pMDw8ga221RHLMiizhh" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;0pMDw8ga221RHLMiizhh&quot;,&quot;name&quot;:&quot;inc.head&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;menu\/chicken&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;8259b4d9&quot;,&quot;data&quot;:[],&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;8d8417bab7215c1423b95a4b571b5e180726b3f0e305d2fc43d25b8c5e41ef82&quot;}}">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="apple-mobile-web-app-title" content="KFC Bangladesh"/>
+    <meta name="description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering.">
+    <meta name="keywords" content="KFC, Online Order, Online Ordering, Online Delivery, Take Away, Offer, Dine-in">
+    <meta name="apple-touch-fullscreen" content="yes"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="msapplication-tooltip" content="KFC">
+    <meta name="msapplication-window" content="width=1024;height=768">
+    <meta name="application-name" content="KFC Online Ordering"/>
+    <meta name="msapplication-allowDomainApiCalls" content="true"/>
+    <meta name="msapplication-allowDomainMetaTags" content="true"/>
+    <meta name="msapplication-TileColor" content="#000000"/>
+    <meta name="author" content="Ismail, Tawhid and Shahabuddin">
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <meta http-equiv="cleartype" content="on"/>
+    <meta name="csrf-token" content="gmTzsmHQnaskcoLKUfMurJRVh1g0IYPVUFaOqbwQ">
+    <meta name="google-site-verification" content="IJ7697ErkZwTPEa5kXBZ6S6hcIkV9euUeHsayMabBe8" />
+    <meta name="facebook-domain-verification" content="30e2uxe1hef84z2kkdm3k4zhsvko79"/>
+    <link rel="icon" type="image/png" sizes="16x16"  href="https://kfcbd.com/frontend/Content/OnlineOrderingImages/SEO/favicon-16x16.png"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://kfcbd.com/css/all.css">
+    <title>a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe</title>
+    
+    <!-- Open Graph Start -->
+    <meta property="og:description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:site_name" content="KFC Bangladesh" />
+    <meta property="og:title" content="a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kfcbd.com/" />
+    <meta property="og:image" content="https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg" />
+    <meta property="fb:app_id" content="729120935113559" />
+    <!-- Open Graph End -->
+
+    <!-- Twitter Start -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@kfcbd" />
+    <meta name="twitter:creator" content="@kfcbd, powerd by aamra infotainment ltd" />
+    <meta property="og:url" content="https://kfcbd.com/" />
+    <meta property="og:title" content="a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe" />
+    <meta property="og:description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering." />
+    <meta property="og:image" content="https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg" />
+    <!-- Twitter End -->
+    
+    <!-- Schema Start -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kfcbd.com/"
+    },
+    "headline": "a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing",
+    "description": "a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe",
+    "image": "https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg",  
+    "author": {
+        "@type": "",
+        "name": "Powerd by aamra infotainment ltd",
+        "url": "https://aamrainfotainment.com/"
+    },  
+    "publisher": {
+        "@type": "Organization",
+        "name": "KFC Bangladesh",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg"
+        }
+    },
+    "datePublished": ""
+    }
+    </script>
+    <!-- Schema End -->
+    
+    <link rel="canonical" href="https://kfcbd.com/menu/chicken" />
+
+    <!------ End For Slider ---------->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css" integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g==" crossorigin="anonymous" />
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <style>
+        .carousel-item .col,
+        .carousel-item .col-sm,
+        .carousel-item .col-md {
+            margin: 8px;
+            height: 300px;
+            background-size: cover;
+            background-position: center center;
+        }
+
+
+    </style>
+    <style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style></livewire:styles>
+    <script src="/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" ></script><script data-turbo-eval="false" data-turbolinks-eval="false" >window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'gmTzsmHQnaskcoLKUfMurJRVh1g0IYPVUFaOqbwQ';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script></livewire:scripts>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MB8CL4QL1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MB8CL4QL1L');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KHQGC24');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1115002402510092');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1115002402510092&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</head>
+
+<!-- Livewire Component wire-end:0pMDw8ga221RHLMiizhh --></livewire:inc.head>
+<!-- End Head -->
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHQGC24"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MB8CL4QL1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MB8CL4QL1L');
+</script>
+
+
+<script>
+    window.addEventListener('couponModel', event => {
+        (function($){
+            $('#couponsec').modal('hide');
+        })(jQuery);
+    })
+</script>
+
+<div id="app">
+    <input type="hidden" id="hdnDeviceType" value="">
+    <input type="hidden" id="hdnLanguage" value="en-US">
+    <div class="bar-loader position-fixed" id="bar-loader-layout" style="display: none;"></div>
+    <main class="">
+                    <div wire:id="zSZ4ngbo0XsfvPVgGlX4" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;zSZ4ngbo0XsfvPVgGlX4&quot;,&quot;name&quot;:&quot;inc.header&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;menu\/chicken&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[&quot;shoppingCartCount&quot;]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;1e514674&quot;,&quot;data&quot;:{&quot;menu_active&quot;:&quot;menu&quot;,&quot;delivery_option&quot;:1,&quot;cartCount&quot;:0,&quot;total&quot;:0,&quot;location&quot;:&quot;Select Location&quot;,&quot;mode&quot;:&quot;Delivery&quot;,&quot;store_address&quot;:null},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;9f5a7092ad15dd321ce8fe67b8e6963f1e5c672a16c1dbb693ea8c1a96ea8d12&quot;}}" class="scope">
+    <header class="main-header aboveImage scope" id="primary-header">
+
+        <div class="top-header-bar">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo Portion -->
+                    <div class="col-md-4 col-4 pt-1 pb-1">
+                        <a href="/" class="logo-link d-block">
+                            <div class="logo-branding">
+                            </div>
+                        </a>
+                    </div>
+                    <!-- One Click Button -->
+                    <div class="col-md-8 col-7 offset-1 offset-md-0 d-flex align-items-center justify-content-end">
+                        <div class="row m-0">
+                            <div class="mr-3 mr-md-5 d-none">
+                                <a href="javascript:;" class="rewards-link float-left">
+                                    <div class="one-click-button"></div>
+                                </a>
+                            </div>
+                            <div class="d-none d-md-flex align-items-center">
+                                                                    <a class="auth-link font-weight-bold text-uppercase scope"
+                                       href="https://kfcbd.com/login">Sign
+                                        In </a>
+                                                            </div>
+                            <div class="d-flex d-md-none">
+                                <button class="btn btn-link bd-search-docs-toggle d-md-none p-0 ml-0 d-flex"
+                                        onclick="hbMenuClick()" id="hamburger_menu_button" type="button"
+                                        data-toggle="collapse" data-target="#bd-docs-nav"
+                                        aria-controls="bd-docs-nav" aria-expanded="false"
+                                        aria-label="Toggle docs navigation">
+                                    <div class="hamburger_menu_bg"></div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+                <div class="bottom-header-bar bottom-header-bar-mobile v2" id="secondary-header">
+            <div class="content container">
+                <div class="row margin-left-adjust">
+                    <div class="col-md-12 col-12  p-2 mt-md-2 mb-md-2 desk">
+                        <nav class="navbar header_navbar p-0">
+                            <div class="">
+                                <ul class="pl-0 mb-0 list-unstyled font-weight-bold">
+                                <span class="nav-item float-left mob-margin-left-4">
+                                    <a class="nav-link text-uppercase margin-adjust offer-arrow white cart-head"
+                                       href="https://kfcbd.com/menu"><span>Menu</span></a>
+                                </span>
+                                </ul>
+                            </div>
+                            <div class="margin-right-adjust" style="text-align: right">
+                                <span class="shopping_cart">
+                                            <a href="https://kfcbd.com/cart" class="shopping-cart">
+                                                <div class="cart-counter position-relative d-inline-block text-center font-weight-bold empty"
+                                                     id="cartCounterUpdate">
+                                                    <span class="align-items-right d-inline-flex ng-binding" id="cartHeaderQty">0</span>
+                                                </div>
+                                            </a>
+                                </span>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+<!-- Livewire Component wire-end:zSZ4ngbo0XsfvPVgGlX4 --></livewire:inc.header>
+            <!--Sticky Header and selected disposition End-->
+
+            <!-- Ham Menu -->
+
+            <div class="mobileMenu_overLay position-fixed d-none scope" onclick="hbMenuHide()">
+            </div>
+
+            <div class="onlyMobile_menu position-fixed p-4 col-9 h-100 scope">
+                <div class="headding_for_welcome_guest mb-5 scope">
+                                            <div class="auth-link scope">
+                            Welcome
+                            <div class="AmericanPurpose text-uppercase username ">Guest!</div>
+                            <div class="position-absolute profile_img_guest">
+                                <img title="KFC Profile Image" alt="KFC Profile Image"
+                                     class="w-100 img-fluid border border-dark rounded-circle scope"
+                                     src="https://kfcbd.com/frontend/Content/OnlineOrderingImages/Shared/profile.png">
+                            </div>
+                        </div>
+                                    </div>
+
+
+                <ul class="hamburger_menu list-unstyled h-100">
+
+                    <li class="scope">
+                                                    <a href="https://kfcbd.com/login" class="d-flex w-100 text-uppercase">
+                                <strong>
+                                    Sign In
+                                </strong>
+                            </a>
+                                            </li>
+
+
+                    <hr class="mt-2 mb-2">
+                    <li class="" data-site-navigation-selection-identifier="offers">
+                        <a href="#" class="d-flex w-100 text-uppercase"><strong>Offers</strong></a>
+                    </li>
+
+
+                    
+                  <!--====================== drop down menu================================ -->
+                    <div class="dropdown">
+                       <a href="#" class="dropdown-toggle font-kfc-mob"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Menu
+                      </a>
+                      <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/chicken">Chicken</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/deals">Deals</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/burgers">Burgers</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/box-meals">BOX MEALS</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/snacks">Snacks</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/beverages">Beverages</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/dips">Dips</a>
+                                                <!--a class="dropdown-kfc active-kfc " href="#">Chicken</a>
+                        <a class="dropdown-kfc " href="#">Deals</a>
+                        <a class="dropdown-kfc " href="#">Burgers</a>
+                        <a class="dropdown-kfc " href="#">Rice Bowlz</a>
+                        <a class="dropdown-kfc " href="#">Snacks</a>
+                        <a class="dropdown-kfc " href="#">Beverages</a>
+                        <a class="dropdown-kfc " href="#">Add-ons</a-->
+                         
+                      </div>
+                    </div>
+                    
+                    <!--====================== drop down menu end================================ -->   
+
+                    <!-- MobileAppSession -->
+                <!-- end MobileAppSession -->
+
+                    <hr class="mt-2 mb-2">
+                    <li class=""><a href="https://kfcbd.com/about-us" class="d-flex w-100 text-uppercase"><strong>About KFC</strong></a>
+                    </li>
+                    <!--li class=""><a href="#" class="d-flex w-100 text-uppercase"><strong>Gift Card</strong></a>
+                    </li-->
+                    <li class=""><a href="https://kfcbd.com/feedback/step01" target="_blank"
+                                    class="d-flex w-100 text-uppercase"><strong>Feedback</strong></a></li>
+                    <li class="">
+                        <a href="https://kfcbd.com/contact-us" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Contact
+                                Us
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/brand-terms-conditions" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Brand T &amp; C
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/offer-terms-conditions" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                FAQ
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/site-map" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Site Map
+                            </strong>
+                        </a>
+                    </li>
+                    
+                    <li class="">
+                        <a href="https://kfcbd.com/shopner-pathshala" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                KFC Shopner Pathshala
+                            </strong>
+                        </a>
+                    </li>
+
+                </ul>
+
+                <span class="mobileMenu_close position-absolute" id="hbMenuHide"></span>
+            </div>
+            <!-- end HamMenuEnable -->
+            <!-- Ham Menu -->
+        
+        <div wire:id="MyhyxYXU7uTjjsW0PX2G" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;MyhyxYXU7uTjjsW0PX2G&quot;,&quot;name&quot;:&quot;products.products&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;menu\/chicken&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;emits&quot;:[{&quot;event&quot;:&quot;activeMenu&quot;,&quot;params&quot;:[1]}],&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;c7f59021&quot;,&quot;data&quot;:{&quot;category&quot;:{&quot;id&quot;:2,&quot;name&quot;:&quot;Chicken&quot;},&quot;menus&quot;:[{&quot;id&quot;:2,&quot;name&quot;:&quot;Chicken&quot;,&quot;slug&quot;:&quot;chicken&quot;,&quot;image&quot;:&quot;categories\/EhIlfht7xhnKtaFDgtEHZkmLe.png&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;Deals&quot;,&quot;slug&quot;:&quot;deals&quot;,&quot;image&quot;:&quot;categories\/j7WcpKoRH0NM4Lquf5CF9L6go.png&quot;},{&quot;id&quot;:4,&quot;name&quot;:&quot;Burgers&quot;,&quot;slug&quot;:&quot;burgers&quot;,&quot;image&quot;:&quot;categories\/WHBy2zw6d6x6NDgR1qSUOkA0B.png&quot;},{&quot;id&quot;:5,&quot;name&quot;:&quot;BOX MEALS&quot;,&quot;slug&quot;:&quot;box-meals&quot;,&quot;image&quot;:&quot;categories\/Iy1ALkQ6toS14sdVMOX3S5P2E.png&quot;},{&quot;id&quot;:6,&quot;name&quot;:&quot;Snacks&quot;,&quot;slug&quot;:&quot;snacks&quot;,&quot;image&quot;:&quot;categories\/d5T7W7x5AAbdiPAnhM0PwPwDh.png&quot;},{&quot;id&quot;:7,&quot;name&quot;:&quot;Beverages&quot;,&quot;slug&quot;:&quot;beverages&quot;,&quot;image&quot;:&quot;categories\/Hru74QmH26fPhNdqlAbNIqoNd.png&quot;},{&quot;id&quot;:8,&quot;name&quot;:&quot;Dips&quot;,&quot;slug&quot;:&quot;dips&quot;,&quot;image&quot;:&quot;categories\/K6TQrQkdSRFRPCw5XTPwskDW8.png&quot;}],&quot;active_slug&quot;:&quot;chicken&quot;,&quot;carts&quot;:[],&quot;cartCount&quot;:0,&quot;total&quot;:0,&quot;product_id&quot;:null,&quot;delivery_option&quot;:1,&quot;products&quot;:[{&quot;id&quot;:84,&quot;overlay_id&quot;:4,&quot;name&quot;:&quot;12 PC Hot &amp; Crispy Chicken Bucket&quot;,&quot;slug&quot;:&quot;12-pc-hot-crispy-chicken-bucket&quot;,&quot;sale_price&quot;:1799,&quot;short_desc&quot;:&quot;Get 12 pc Hot &amp; Crispy Chicken Bucket.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:4,&quot;name&quot;:&quot;Popular&quot;},&quot;addons&quot;:[{&quot;id&quot;:22,&quot;title&quot;:&quot;Fries  - Large&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/NNeu2L6occGKeZbs9Hw4NVMzs.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:84,&quot;addon_id&quot;:22}},{&quot;id&quot;:21,&quot;title&quot;:&quot;Tangy Fries  - Large&quot;,&quot;price&quot;:219,&quot;image&quot;:&quot;addons\/VZZdWikJzipDsu3eWiej6mjsO.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:84,&quot;addon_id&quot;:21}}]},{&quot;id&quot;:83,&quot;overlay_id&quot;:null,&quot;name&quot;:&quot;12 pcs Smoky Red Chicken Bucket&quot;,&quot;slug&quot;:&quot;12-pcs-smoky-red-chicken-bucket&quot;,&quot;sale_price&quot;:1799,&quot;short_desc&quot;:&quot;Get 12 pc Smoky Red Chicken Bucket.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:null,&quot;addons&quot;:[{&quot;id&quot;:22,&quot;title&quot;:&quot;Fries  - Large&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/NNeu2L6occGKeZbs9Hw4NVMzs.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:83,&quot;addon_id&quot;:22}},{&quot;id&quot;:21,&quot;title&quot;:&quot;Tangy Fries  - Large&quot;,&quot;price&quot;:219,&quot;image&quot;:&quot;addons\/VZZdWikJzipDsu3eWiej6mjsO.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:83,&quot;addon_id&quot;:21}}]},{&quot;id&quot;:130,&quot;overlay_id&quot;:85,&quot;name&quot;:&quot;10 Pc Leg Bucket Meal&quot;,&quot;slug&quot;:&quot;10-pc-leg-bucket-meal&quot;,&quot;sale_price&quot;:1699,&quot;short_desc&quot;:&quot;Get all 10 Leg Pieces with 2 medium Fries, Sweet Mayo &amp; Nashville Sauce, with 4 Pepsi Go Pack.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:85,&quot;name&quot;:&quot;Save 28%&quot;},&quot;addons&quot;:[{&quot;id&quot;:26,&quot;title&quot;:&quot;Potato Wadges&quot;,&quot;price&quot;:189,&quot;image&quot;:&quot;addons\/1qOTwUgLOf6h771ebD0Ok0xhJ.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:130,&quot;addon_id&quot;:26}}]},{&quot;id&quot;:103,&quot;overlay_id&quot;:82,&quot;name&quot;:&quot;10 Pc Leg  Bucket&quot;,&quot;slug&quot;:&quot;10-pc-leg-bucket&quot;,&quot;sale_price&quot;:1249,&quot;short_desc&quot;:&quot;Enjoy 10 leg piece bucket with Hot &amp; Crispy and 4 side dips of Sweet Mayo &amp;  Nashville Sauce.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:82,&quot;name&quot;:&quot;Save 34%&quot;},&quot;addons&quot;:[{&quot;id&quot;:22,&quot;title&quot;:&quot;Fries  - Large&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/NNeu2L6occGKeZbs9Hw4NVMzs.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:103,&quot;addon_id&quot;:22}},{&quot;id&quot;:21,&quot;title&quot;:&quot;Tangy Fries  - Large&quot;,&quot;price&quot;:219,&quot;image&quot;:&quot;addons\/VZZdWikJzipDsu3eWiej6mjsO.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:103,&quot;addon_id&quot;:21}}]},{&quot;id&quot;:81,&quot;overlay_id&quot;:4,&quot;name&quot;:&quot;8 PC Hot &amp; Crispy Chicken Bucket&quot;,&quot;slug&quot;:&quot;8-pc-hot-crispy-chicken-bucket&quot;,&quot;sale_price&quot;:1249,&quot;short_desc&quot;:&quot;Get 8 pc Hot &amp; Crispy Chicken Bucket.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:4,&quot;name&quot;:&quot;Popular&quot;},&quot;addons&quot;:[{&quot;id&quot;:22,&quot;title&quot;:&quot;Fries  - Large&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/NNeu2L6occGKeZbs9Hw4NVMzs.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:81,&quot;addon_id&quot;:22}},{&quot;id&quot;:21,&quot;title&quot;:&quot;Tangy Fries  - Large&quot;,&quot;price&quot;:219,&quot;image&quot;:&quot;addons\/VZZdWikJzipDsu3eWiej6mjsO.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:81,&quot;addon_id&quot;:21}}]},{&quot;id&quot;:80,&quot;overlay_id&quot;:null,&quot;name&quot;:&quot;8 pcs Smoky Red Chicken Bucket&quot;,&quot;slug&quot;:&quot;8-pcs-smoky-red-chicken-bucket&quot;,&quot;sale_price&quot;:1249,&quot;short_desc&quot;:&quot;Enjoy 8 pcs of Smoky Red Chicken Bucket.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:null,&quot;addons&quot;:[{&quot;id&quot;:22,&quot;title&quot;:&quot;Fries  - Large&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/NNeu2L6occGKeZbs9Hw4NVMzs.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:80,&quot;addon_id&quot;:22}},{&quot;id&quot;:21,&quot;title&quot;:&quot;Tangy Fries  - Large&quot;,&quot;price&quot;:219,&quot;image&quot;:&quot;addons\/VZZdWikJzipDsu3eWiej6mjsO.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:80,&quot;addon_id&quot;:21}}]},{&quot;id&quot;:104,&quot;overlay_id&quot;:90,&quot;name&quot;:&quot;5pc Leg  Bucket Meal&quot;,&quot;slug&quot;:&quot;5pc-leg-bucket-meal&quot;,&quot;sale_price&quot;:849,&quot;short_desc&quot;:&quot;Get 5 Leg Piece Bucket Meal with fries, Sweet Mayo &amp; Nashville Sauce, 2 Pepsi Go pack.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:90,&quot;name&quot;:&quot;Save 29%&quot;},&quot;addons&quot;:[{&quot;id&quot;:26,&quot;title&quot;:&quot;Potato Wadges&quot;,&quot;price&quot;:189,&quot;image&quot;:&quot;addons\/1qOTwUgLOf6h771ebD0Ok0xhJ.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:104,&quot;addon_id&quot;:26}}]},{&quot;id&quot;:158,&quot;overlay_id&quot;:null,&quot;name&quot;:&quot;4 Pc Chicken &amp; Fries Meal&quot;,&quot;slug&quot;:&quot;4-pc-chicken-fries-meal&quot;,&quot;sale_price&quot;:869,&quot;short_desc&quot;:&quot;Get 4 pcs Hot &amp; Crispy, 1 Medium Fries and 2 Pepsi Go Pack.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:null,&quot;addons&quot;:[{&quot;id&quot;:12,&quot;title&quot;:&quot;Mayonnaise&quot;,&quot;price&quot;:29,&quot;image&quot;:&quot;addons\/q4PbcOqiyc8rzwRlWJLiwCrGt.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:158,&quot;addon_id&quot;:12}},{&quot;id&quot;:10,&quot;title&quot;:&quot;Spicy Mayo&quot;,&quot;price&quot;:29,&quot;image&quot;:&quot;addons\/YGGdfOjDnPYCzR3XKwiTHcZ93.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:158,&quot;addon_id&quot;:10}}]},{&quot;id&quot;:105,&quot;overlay_id&quot;:95,&quot;name&quot;:&quot;5 pc Leg  Bucket&quot;,&quot;slug&quot;:&quot;5-pc-leg-bucket&quot;,&quot;sale_price&quot;:699,&quot;short_desc&quot;:&quot;Feel the crunchy bite of leg pieces dipping into Sweet  Mayo &amp; Nashville Sauce.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:95,&quot;name&quot;:&quot;Save 27%&quot;},&quot;addons&quot;:[{&quot;id&quot;:17,&quot;title&quot;:&quot;Tangy Fries  -Medium&quot;,&quot;price&quot;:199,&quot;image&quot;:&quot;addons\/rbghKJ9asEKPWNLpjkyqiAFft.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:105,&quot;addon_id&quot;:17}},{&quot;id&quot;:23,&quot;title&quot;:&quot;Fries  - Medium&quot;,&quot;price&quot;:179,&quot;image&quot;:&quot;addons\/MLANrdKtYpD9AlOzgDguZI09W.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:105,&quot;addon_id&quot;:23}}]},{&quot;id&quot;:52,&quot;overlay_id&quot;:4,&quot;name&quot;:&quot;2 PC Hot &amp; Crispy Chicken&quot;,&quot;slug&quot;:&quot;2-pc-hot-crispy-chicken&quot;,&quot;sale_price&quot;:329,&quot;short_desc&quot;:&quot;Indulge into 2 pc Hot &amp; Crispy Chicken.&quot;,&quot;only_app&quot;:0,&quot;tags&quot;:{&quot;id&quot;:4,&quot;name&quot;:&quot;Popular&quot;},&quot;addons&quot;:[{&quot;id&quot;:12,&quot;title&quot;:&quot;Mayonnaise&quot;,&quot;price&quot;:29,&quot;image&quot;:&quot;addons\/q4PbcOqiyc8rzwRlWJLiwCrGt.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:52,&quot;addon_id&quot;:12}},{&quot;id&quot;:10,&quot;title&quot;:&quot;Spicy Mayo&quot;,&quot;price&quot;:29,&quot;image&quot;:&quot;addons\/YGGdfOjDnPYCzR3XKwiTHcZ93.jpg&quot;,&quot;pivot&quot;:{&quot;product_id&quot;:52,&quot;addon_id&quot;:10}}]}],&quot;store_id&quot;:null,&quot;store_open&quot;:null,&quot;store_close&quot;:null,&quot;is_store_off&quot;:false,&quot;addon_id&quot;:[]},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;69efd1cd1ff9212266b8a0a2c83fa9b119d1f3977ac3b897a4252272b92167a5&quot;}}">
+    <style>
+    </style>
+    <main class="">
+        <div id="RenderBodyDiv" style="margin-top: 0px;">
+
+            <div class="menu_cat_outerwrapper container mb-5 " id="menu_cat_outerwrapper">
+                <div class="row m-0">
+                    <div class="col-12 mobile p-0">
+                        <div class="sticky_menu_category" id="menu_category_wrapper">
+                                                        <div class="container">
+                                <div class="row">
+                                    <div class="col-12 position-relative ">
+                                        <ul class="menu_category_wrapper list-unstyled cart-view-mob"
+                                            id="menu_category">
+                                            
+                                                <li class="menuwrapp col h-100 no-border mt-1   ">
+                                                   <div>
+                                        <span class="cart-counter-mob">
+                                            <div class="cartHeaderQty-mob ng-binding" id="cartHeaderQty">0</div>
+                                        </span>
+                                                        <span class="cart-total-mob">Total:</span>
+                                                        <span class="cart-amount-mob ng-binding">৳ 0</span>
+
+                                                       <a href="https://kfcbd.com/cart" class="">
+                                                          <span class="mobile-view-cart white">VIEW CART</span>
+                                                        </a>
+
+
+                                               </div>
+                                               </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--------------2nd- menu --------->
+                    <div class="container menu-stekey">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="cata-sub-nav">
+                                    <div class="nav-prev arrow"></div>
+                                    <ul class="box-st">
+                                                                                <li><a href="https://kfcbd.com/menu/chicken" class="kfc-but active-kfc">Chicken</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/deals" class="kfc-but ">Deals</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/burgers" class="kfc-but ">Burgers</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/box-meals" class="kfc-but ">BOX MEALS</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/snacks" class="kfc-but ">Snacks</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/beverages" class="kfc-but ">Beverages</a></li>
+                                                                                <li><a href="https://kfcbd.com/menu/dips" class="kfc-but ">Dips</a></li>
+                                                                                <!--li><a href="#" class="kfc-but ">Burgers</a></li>
+                                        <li><a href="#" class=" kfc-but ">RICE BOWLZ</a></li>
+                                        <li><a href="#" class=" kfc-but ">snacks</a></li>
+                                        <li><a href="#" class=" kfc-but ">Beverages</a></li>
+                                        <li><a href="#" class=" kfc-but ">Add-ons</a></li>
+                                        <li><a href="#" class=" kfc-but ">Burgers & Chicken</a></li-->
+                                    </ul>
+                                    <div class="nav-next arrow"></div>
+                                </div>  
+                            </div>
+                        </div>
+                    </div>
+
+
+                                        
+                    <div class="col-12">
+                        <div>
+                                                    </div>
+                        <div class="row pt-3 pb-3">
+                            <div class="col-12">
+                                <h1 class="headerText text-uppercase font-weight-bold position-relative ng-binding">Chicken</h1>
+                                <!--itemsList.isTaxIncl -->
+                                
+                            </div>
+                            <!-- -->
+                        </div>
+                    </div>
+                                        <div class="col-12">
+                        <!-- SubCategories -->
+                        <!-- selectedSubCategory === subCat.Id -->
+                        <div class="row ">
+                            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 ">
+                                <!-- subCat.Items.length -->
+                                <ul class="row row-eq-height list-unstyled mb-0 olo_product_tiles justify-content-center ">
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Popular</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="12 PC Hot &amp; Crispy Chicken Bucket"
+                                                                     alt="12 PC Hot &amp; Crispy Chicken Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/JUn7NcRO0yUAWbycF7xd6shi4.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get 12 pc Hot &amp; Crispy Chicken Bucket.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/12-pc-hot-crispy-chicken-bucket">12 PC Hot &amp; Crispy Chicken Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1799</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('84')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('84')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_84" tabindex="-1" role="dialog" aria-labelledby="model_84Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="22" name="addon[]" wire:model="addon_id" value="22">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/NNeu2L6occGKeZbs9Hw4NVMzs.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Large</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="21" name="addon[]" wire:model="addon_id" value="21">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/VZZdWikJzipDsu3eWiej6mjsO.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  - Large</p>
+                                                                            <h4>৳ 219</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="12 pcs Smoky Red Chicken Bucket"
+                                                                     alt="12 pcs Smoky Red Chicken Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/HtZFnHJMr7WclPgyikRuZpllj.png">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get 12 pc Smoky Red Chicken Bucket.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/12-pcs-smoky-red-chicken-bucket">12 pcs Smoky Red Chicken Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1799</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('83')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('83')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_83" tabindex="-1" role="dialog" aria-labelledby="model_83Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="22" name="addon[]" wire:model="addon_id" value="22">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/NNeu2L6occGKeZbs9Hw4NVMzs.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Large</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="21" name="addon[]" wire:model="addon_id" value="21">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/VZZdWikJzipDsu3eWiej6mjsO.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  - Large</p>
+                                                                            <h4>৳ 219</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Save 28%</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="10 Pc Leg Bucket Meal"
+                                                                     alt="10 Pc Leg Bucket Meal"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/3kmqS7CGY2IuQBcNtGXfkhGkO.jpeg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get all 10 Leg Pieces with 2 medium Fries, Sweet Mayo &amp; Nashville Sauce, with 4 Pepsi Go Pack.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/10-pc-leg-bucket-meal">10 Pc Leg Bucket Meal</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1699</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('130')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('130')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_130" tabindex="-1" role="dialog" aria-labelledby="model_130Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="26" name="addon[]" wire:model="addon_id" value="26">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/1qOTwUgLOf6h771ebD0Ok0xhJ.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Potato Wadges</p>
+                                                                            <h4>৳ 189</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Save 34%</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="10 Pc Leg  Bucket"
+                                                                     alt="10 Pc Leg  Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/Fq6WK3LsTbubDQeL10LLX6RKQ.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Enjoy 10 leg piece bucket with Hot &amp; Crispy and 4 side dips of Sweet Mayo &amp;  Nashville Sauce.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/10-pc-leg-bucket">10 Pc Leg  Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1249</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('103')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('103')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_103" tabindex="-1" role="dialog" aria-labelledby="model_103Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="22" name="addon[]" wire:model="addon_id" value="22">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/NNeu2L6occGKeZbs9Hw4NVMzs.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Large</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="21" name="addon[]" wire:model="addon_id" value="21">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/VZZdWikJzipDsu3eWiej6mjsO.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  - Large</p>
+                                                                            <h4>৳ 219</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Popular</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="8 PC Hot &amp; Crispy Chicken Bucket"
+                                                                     alt="8 PC Hot &amp; Crispy Chicken Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/7M4ndd9lABbVh5vDTFhNdL4V7.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get 8 pc Hot &amp; Crispy Chicken Bucket.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/8-pc-hot-crispy-chicken-bucket">8 PC Hot &amp; Crispy Chicken Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1249</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('81')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('81')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_81" tabindex="-1" role="dialog" aria-labelledby="model_81Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="22" name="addon[]" wire:model="addon_id" value="22">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/NNeu2L6occGKeZbs9Hw4NVMzs.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Large</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="21" name="addon[]" wire:model="addon_id" value="21">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/VZZdWikJzipDsu3eWiej6mjsO.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  - Large</p>
+                                                                            <h4>৳ 219</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="8 pcs Smoky Red Chicken Bucket"
+                                                                     alt="8 pcs Smoky Red Chicken Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/1RSY1Kvuq0sKMYChCsWWpa4Y9.png">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Enjoy 8 pcs of Smoky Red Chicken Bucket.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/8-pcs-smoky-red-chicken-bucket">8 pcs Smoky Red Chicken Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 1249</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('80')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('80')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_80" tabindex="-1" role="dialog" aria-labelledby="model_80Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="22" name="addon[]" wire:model="addon_id" value="22">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/NNeu2L6occGKeZbs9Hw4NVMzs.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Large</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="21" name="addon[]" wire:model="addon_id" value="21">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/VZZdWikJzipDsu3eWiej6mjsO.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  - Large</p>
+                                                                            <h4>৳ 219</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Save 29%</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="5pc Leg  Bucket Meal"
+                                                                     alt="5pc Leg  Bucket Meal"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/22yaNpWeLIk82C7SJlY653v2G.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get 5 Leg Piece Bucket Meal with fries, Sweet Mayo &amp; Nashville Sauce, 2 Pepsi Go pack.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/5pc-leg-bucket-meal">5pc Leg  Bucket Meal</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 849</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('104')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('104')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_104" tabindex="-1" role="dialog" aria-labelledby="model_104Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="26" name="addon[]" wire:model="addon_id" value="26">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/1qOTwUgLOf6h771ebD0Ok0xhJ.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Potato Wadges</p>
+                                                                            <h4>৳ 189</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="4 Pc Chicken &amp; Fries Meal"
+                                                                     alt="4 Pc Chicken &amp; Fries Meal"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/UTKe6dBWQ1i5UzjOVKXpG8aXA.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Get 4 pcs Hot &amp; Crispy, 1 Medium Fries and 2 Pepsi Go Pack.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/4-pc-chicken-fries-meal">4 Pc Chicken &amp; Fries Meal</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 869</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('158')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('158')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_158" tabindex="-1" role="dialog" aria-labelledby="model_158Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="12" name="addon[]" wire:model="addon_id" value="12">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/q4PbcOqiyc8rzwRlWJLiwCrGt.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Mayonnaise</p>
+                                                                            <h4>৳ 29</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="10" name="addon[]" wire:model="addon_id" value="10">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/YGGdfOjDnPYCzR3XKwiTHcZ93.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Spicy Mayo</p>
+                                                                            <h4>৳ 29</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Save 27%</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="5 pc Leg  Bucket"
+                                                                     alt="5 pc Leg  Bucket"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/Poo2ADwMRHEeuruu2xty66EYr.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Feel the crunchy bite of leg pieces dipping into Sweet  Mayo &amp; Nashville Sauce.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/5-pc-leg-bucket">5 pc Leg  Bucket</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 699</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('105')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('105')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_105" tabindex="-1" role="dialog" aria-labelledby="model_105Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="17" name="addon[]" wire:model="addon_id" value="17">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/rbghKJ9asEKPWNLpjkyqiAFft.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Tangy Fries  -Medium</p>
+                                                                            <h4>৳ 199</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="23" name="addon[]" wire:model="addon_id" value="23">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/MLANrdKtYpD9AlOzgDguZI09W.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Fries  - Medium</p>
+                                                                            <h4>৳ 179</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                            <li class="col-6 col-md-4 menuCat_outerWrapper ">
+                                            <div class="h-100 ng-isolate-scope">
+                                                <div class="menuCat_innerWrapper position-relative h-100">
+                                                    <div class="row h-100">
+                                                        <div class="col-12 image_hover_text onClickTextOverImage">
+                                                            <span class="image_hover_text_dropdown position-absolute"></span>
+                                                                                                                            <span class="product-tag">Popular</span>
+                                                                                                                    <!--deal.ImageName -->
+                                                            <picture>
+                                                                <img title="2 PC Hot &amp; Crispy Chicken"
+                                                                     alt="2 PC Hot &amp; Crispy Chicken"
+                                                                     class="w-100 img-fluid "
+                                                                     src="https://kfcbd.com/storage/products/usXMBUGvzdqS3jNRnzDThUjhT.jpg">
+                                                                <!-- end imgPurpose -->
+                                                            </picture><!-- end deal.ImageName -->
+
+
+                                                            <span class="ribbonWrap new_item position-absolute text-center">
+
+                                                        <p class="align-items-center h-100 d-inline-flex mb-0 pl-1">Not Available</p>
+
+                                                    </span>
+                                                            <div class="row">
+                                                                <div class="col-12 position-absolute h-100 imgHover_txt imgHover_txtVisible"
+                                                                     ng-class="showHoverText ? 'imgHover_txtVisible': 'imgHover_txtHidden'"
+                                                                     ng-show="showHoverText" onclick="showText()">
+                                                                    <div class="pt-5 pl-2 pr-2 d-flex h-100 w-100 imgHover_text_wrapper">
+                                                                        <p class="d-flex align-items-center h-100 w-100 mb-0 pb-2 overflow-y-overlay ng-binding"
+                                                                           ng-bind-html="description">Indulge into 2 pc Hot &amp; Crispy Chicken.</p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-12 d-flex flex-column justify-content-between menuCat_details align-self-end">
+                                                            <div class="menuCat_price_button">
+                                                                <div class="row d-flex">
+                                                                    <div class="col-12 menuCat_product_name font-weight-bold ng-binding">
+                                                                        <a href="https://kfcbd.com/product/details/2-pc-hot-crispy-chicken">2 PC Hot &amp; Crispy Chicken</a>
+                                                                    </div>
+                                                                    <div class="col-12 text-right menuCat_product_price font-weight-bold">
+                                                                        <!--isItemInOffer -->
+                                                                        <span class="new_price">
+                                                                    <strong class="ng-binding">৳ 329</strong>
+                                                                </span>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!--!isItemAdded -->
+                                                                <!---->
+                                                                <!--    <button class="btn item-pricebutton float-right ng-binding "-->
+                                                                <!--            wire:click="addToCart('52')">-->
+
+                                                                <!--        Add to cart-->
+                                                                <!--    </button>-->
+                                                                <!---->
+                                                                
+                                                                <!--!isItemAdded -->
+                                                                                                                                                                                                        <button class="btn item-pricebutton float-right ng-binding "
+                                                                        wire:click="addToCart('52')">
+                                                                        Add to cart
+                                                                    </button>
+                                                                                                                                                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li><!-- end ngRepeat: genericItem in subCat.Items track by $index -->
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="model_52" tabindex="-1" role="dialog" aria-labelledby="model_52Title" aria-hidden="true" wire:ignore wire:key>
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content pro-mod-w">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="exampleModalLongTitle">Complete Your Meal</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+
+
+                                                    <div class="overflow-auto p-3 mb-3 mb-md-0 mr-md-3 bg-light">
+                                                        <div class="modal-body ">
+                                                                                                                                                                                                                                                                <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="12" name="addon[]" wire:model="addon_id" value="12">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/q4PbcOqiyc8rzwRlWJLiwCrGt.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Mayonnaise</p>
+                                                                            <h4>৳ 29</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                    <div class="media">
+                                                                        <div class="form-check st-che custom-radio">
+                                                                            <input type="checkbox" class="form-check-input" id="10" name="addon[]" wire:model="addon_id" value="10">
+                                                                            <label class="form-check-label" for="exampleCheck1"></label>
+                                                                        </div>
+                                                                        <img class="mr-3" src="https://kfcbd.com/storage/addons/YGGdfOjDnPYCzR3XKwiTHcZ93.jpg" alt="Generic placeholder image">
+                                                                        <div class="media-body">
+                                                                            <p>Spicy Mayo</p>
+                                                                            <h4>৳ 29</h4>
+                                                                        </div>
+                                                                    </div>
+                                                                                                                                <div class="modal-footer">
+                                                                    <!--<button class="btn item-pricebutton float-right ng-binding "-->
+                                                                    <!--        wire:click="addToCartAddon()" data-dismiss="modal">-->
+                                                                    <!--    Add to Cart-->
+                                                                    <!--</button>-->
+                                                                                                                                            <button class="btn item-pricebutton float-right ng-binding "
+                                                                            wire:click="addToCartAddon()" data-dismiss="modal">
+                                                                            Add to Cart
+                                                                        </button>
+                                                                                                                                    </div>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                    </ul><!-- end subCat.Items.length -->
+                                <!-- subCat.Items.length -->
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4 desktop">
+                                                                    <div class="running-cart-border position-adjust">
+                                        <ul class="col-12 row-eq-height list-unstyled mb-0 olo_product_tiles justify-content-center menuCat_outerWrapper padding-right-0 padding-left-0">
+                                            <!-- cartDataDetails -->
+                                            <li class="cart_outer_wrapper ">
+                                                <div class="col-12 empty-bucket position-relative"></div>
+                                                <div class="col-12 text-center empty-basket-text ng-binding">Your cart
+                                                    is empty!
+                                                </div>
+                                            </li><!-- end cartDataDetails -->
+                                        </ul>
+                                    </div>
+                                                            </div>
+                        </div><!-- end selectedSubCategory === subCat.Id -->
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </main>
+</div>
+
+
+<!-- Livewire Component wire-end:MyhyxYXU7uTjjsW0PX2G -->
+    </main>
+            <div wire:id="OegbyxYZEPFGcx6GFnfe" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;OegbyxYZEPFGcx6GFnfe&quot;,&quot;name&quot;:&quot;inc.footer&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;menu\/chicken&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;a982f1d2&quot;,&quot;data&quot;:[],&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;779c99ca4b88100e32579247adfec6b7ad1cdf22de370e323bf73881df599df1&quot;}}">
+    <footer>
+        <div class="container">
+            <div class="row pt-3 pb-3">
+                <!-- End of New Html-->
+
+                <nav class="navbar footer_navbar d-none d-md-flex justify-content-md-center justify-content-lg-start col-12 col-md-12 col-lg-12">
+                    <ul class="pl-0 mb-0 list-unstyled">
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/about-us" >ABOUT KFC</a>
+                        </li>
+                     
+
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/feedback/step01" >FEEDBACK</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/contact-us" >CONTACT
+                                US</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/brand-terms-conditions" >Brand T &amp; C</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/faq">FAQ</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/offer-terms-conditions">OFFERS T & C</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold" href="https://kfcbd.com/store-locator">FIND A KFC</a>
+                        </li>
+                        <!--<li class="nav-item float-left">-->
+                        <!--    <a class="nav-link text-uppercase font-weight-bold" href="https://kfcbd.com/shopner-pathshala">KFC Shopner Pathshala</a>-->
+                        <!--</li>-->
+                    </ul>
+                </nav>
+                <div id="downloadable"
+                     class="downloadContent col-12 col-md-12 col-lg-4  d-flex justify-content-center justify-content-lg-end">
+                    <!--a class="downloadMobile d-inline-block" href="javascript:;"></a>
+                    <a class="downloadApple d-inline-block" href="javascript:;"
+                       target="_blank"></a>
+                    <a class="downloadAndroid d-inline-block"
+                       href="javascript:;" target="_blank"></a-->
+                </div>
+
+                <div class="col-12">
+                    <hr class="social_icon_devider w-100 mt-3 mb-3">
+                </div>
+
+
+                <div class="socialIcons col-md-12 col-lg-3 col-12 text-center text-md-left">
+                    <div class="col-8 offset-2 col-lg-8 offset-lg-0">
+                        <ul class="list-inline social-link row d-flex p-md-0 justify-content-between mb-0">
+                            <li class="d-inline-block">
+                                <a href="https://www.facebook.com/KFCBangladesh/" target="_blank">
+                                    <div class="fb_icon"></div>
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="https://www.instagram.com/kfcbd_official/" target="_blank">
+                                    <div class="insta_icon"></div>
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="https://www.youtube.com/c/KFCBangladesh" target="_blank">
+                                    <div class="youtube_icon"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12 col-lg-5 text-center pt-3 pb-lg-5 pb-md-3 pt-lg-0 pb-lg-0">
+                    <a href="http://www.aamrainfotainment.com/" target="_blank" style="color: #686868;font-size: 12px;">Developed By | <img src="https://kfcbd.com/frontend/Content/images/logo-black.png" alt="" style="width: 50%"></a>
+                </div>
+
+                <div class="copyrightInfo col-md-12 col-lg-4 text-center text-lg-right pt-3 pb-5 pb-md-3 pt-lg-0 pb-lg-0  copy-rem">
+                    <span>© Copyright 2025 KFC. All Rights Reserved.</span>
+                </div>
+
+
+                <div class="col-12 copyrightInfo d-md-block pt-2 pb-lg-2 text-center text_rem pb-sm-5">
+                    Food shown are for illustration purpose only. Actual product may differ from the images shown in this website. <br>The KFC name, logos, and related marks are trademarks of KFC, Inc.
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid d-mobile-none">
+            <div class="row">
+                <div class="col-12 p-0 footer_strip w-100"></div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<!-- Livewire Component wire-end:OegbyxYZEPFGcx6GFnfe --></livewire:inc.footer>
+</div>
+<script>
+    window.addEventListener('swal:modal', event => {
+        swal({
+            title: event.detail.message,
+            text: event.detail.text,
+            icon: event.detail.type,
+        });
+    });
+</script>
+
+
+<script>
+    function openCloseHam() {
+        $(".ham-menu").toggleClass("open");
+    };
+
+    $(document).ready(function () {
+        $(".menu-row").find("a").click(function () {
+            if ($(this).attr("href") == "#") {
+                if ($(this).parent().hasClass("active")) {
+                    $(this).siblings('ul').slideUp();
+                    $(this).closest("ul").find("li").removeClass("active");
+                } else {
+                    $(this).closest("ul").find("ul").slideUp();
+                    $(this).siblings('ul').slideDown();
+                    $(this).closest("ul").find("li").removeClass("active");
+                    $(this).parent().addClass("active");
+                }
+            }
+        });
+
+        //For Stickey header
+
+        if ($("#secondary-header").length !== 0) {
+            window.onscroll = function () {
+                myFunction();
+            };
+            var navbar = document.getElementById("secondary-header");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky");
+                } else {
+                    navbar.classList.remove("sticky");
+                }
+            }
+        }
+
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c == 'startMyOrderHint') {
+                $('#firstTimeUser').removeClass('firstTimeUser');
+                $('#firstTimeUser').addClass('secondTimeUser');
+            }
+        }
+
+    });
+
+
+    function ShowSavedAddress(flag) {
+        if (flag) {
+            $('#openSavedAddressModal').addClass('open');
+        } else {
+            $('#openSavedAddressModal').removeClass('open');
+        }
+
+    }
+
+
+    function hbMenuHide(label, category) {
+
+        if (label) {
+            try {
+                dataLayer.push({
+                    'event': 'menu_navigation',
+                    'eventCategory': category,
+                    'eventAction': 'Click',
+                    'eventLabel': label
+                });
+            }
+            catch (err) {
+            }
+        }
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").removeClass("hamMenuOpen");
+    }
+</script>
+
+
+<script>
+    function hbMenuClick() {
+        $('.onlyMobile_menu').addClass("right-0");
+        $(".mobileMenu_overLay").removeClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+
+    function hbMenuRemove() {
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+</script>
+
+
+
+
+<div class="modal fade" id="locationDialog" data-backdrop="true" data-keyboard="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modalprop">
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var textOverImages = document.getElementsByClassName("onClickTextOverImage");
+    var previousTextOverImage;
+    for (var i = 0; i < textOverImages.length; i++) {
+        textOverImages[i].onclick = function () {
+            var classes = this.classList;
+            if (classes.contains("show")) {
+                classes.remove("show");
+            } else {
+                if (previousTextOverImage != null)
+                    previousTextOverImage.classList.remove("show");
+                previousTextOverImage = this;
+                classes.add("show");
+            }
+        }
+    }
+
+    function stopPropagation(event) {
+        event.stopPropagation();
+    }
+</script>
+
+
+<!-- Ad silder-->
+<script>
+    $(function () {
+        var current_pos;
+
+        $("#carousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#recommobcarousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#carouselrecom").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+</script>
+<script>
+    window.livewire.on('alert', param => {
+        toastr[param['type']](param['message']);
+    });
+</script>
+<script>
+    function openCloseHam() {
+        $(".ham-menu").toggleClass("open");
+    };
+
+    $(document).ready(function () {
+        $(".menu-row").find("a").click(function () {
+            if ($(this).attr("href") == "#") {
+                if ($(this).parent().hasClass("active")) {
+                    $(this).siblings('ul').slideUp();
+                    $(this).closest("ul").find("li").removeClass("active");
+                } else {
+                    $(this).closest("ul").find("ul").slideUp();
+                    $(this).siblings('ul').slideDown();
+                    $(this).closest("ul").find("li").removeClass("active");
+                    $(this).parent().addClass("active");
+                }
+            }
+        });
+
+        //For Stickey header
+
+        if ($("#secondary-header").length !== 0) {
+            window.onscroll = function () {
+                myFunction();
+            };
+            var navbar = document.getElementById("secondary-header");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky");
+                } else {
+                    navbar.classList.remove("sticky");
+                }
+            }
+        }
+
+
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c == 'startMyOrderHint') {
+                $('#firstTimeUser').removeClass('firstTimeUser');
+                $('#firstTimeUser').addClass('secondTimeUser');
+            }
+        }
+
+    });
+
+
+    function ShowSavedAddress(flag) {
+        if (flag) {
+            $('#openSavedAddressModal').addClass('open');
+        } else {
+            $('#openSavedAddressModal').removeClass('open');
+        }
+
+    }
+
+
+    function hbMenuHide(label, category) {
+
+        if (label) {
+            try {
+                dataLayer.push({
+                    'event': 'menu_navigation',
+                    'eventCategory': category,
+                    'eventAction': 'Click',
+                    'eventLabel': label
+                });
+            }
+            catch (err) {
+            }
+        }
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").removeClass("hamMenuOpen");
+    }
+
+    function postHamburgerClick() {
+        var dictionayData = {"key": "isHamMenuClicked", "value": "Y"};
+        if ($('#hdnDeviceType').val() !== undefined && $('#hdnDeviceType').val() !== '') {
+            if ($('#hdnDeviceType').val().toLowerCase() === "ios") {
+                window.webkit.messageHandlers.invokeAction.postMessage(JSON.stringify(dictionayData));
+            }
+            else {
+                jsBridge.invokeAction(JSON.stringify(dictionayData));
+            }
+        }
+    }
+
+    function PostLogin(name) {
+        var dictionayData = {"key": "Name", "value": name};
+        if ($('#hdnDeviceType').val() !== undefined && $('#hdnDeviceType').val() !== '') {
+            if ($('#hdnDeviceType').val().toLowerCase() === "ios") {
+                window.webkit.messageHandlers.invokeAction.postMessage(JSON.stringify(dictionayData));
+            }
+            else {
+                jsBridge.invokeAction(JSON.stringify(dictionayData));
+            }
+        }
+    }
+
+</script>
+
+
+<script>
+    function hbMenuClick() {
+        $('.onlyMobile_menu').addClass("right-0");
+        $(".mobileMenu_overLay").removeClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+
+    function hbMenuRemove() {
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+</script>
+
+
+<div class="modal fade" id="locationDialog" data-backdrop="true" data-keyboard="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modalprop">
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var textOverImages = document.getElementsByClassName("onClickTextOverImage");
+    var previousTextOverImage;
+    for (var i = 0; i < textOverImages.length; i++) {
+        textOverImages[i].onclick = function () {
+            var classes = this.classList;
+            if (classes.contains("show")) {
+                classes.remove("show");
+            } else {
+                if (previousTextOverImage != null)
+                    previousTextOverImage.classList.remove("show");
+                previousTextOverImage = this;
+                classes.add("show");
+            }
+        }
+    }
+
+    function stopPropagation(event) {
+        event.stopPropagation();
+    }
+</script>
+
+
+
+<!-- Ad silder-->
+<script>
+    $(function () {
+        var current_pos;
+
+        $("#carousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#recommobcarousel").owlCarousel({
+            items: 2,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#carouselrecom").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:2
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:3
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $(".addon").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                576:{
+                    items:2
+                },
+                768:{
+                    items:2
+                },
+                768:{
+                    items:2
+                },
+                1200:{
+                    items:2
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+</script>
+
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $('#myOffer007').modal('show');
+    });
+</script>
+<script>
+    console.log('%c aamra infotainment Limited ', 'background: #000; font-weight:500; color: #fff');
+</script>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+    (function($) {
+
+	$(".cata-sub-nav").on('scroll', function() {
+    	$val = $(this).scrollLeft();
+
+    	if($(this).scrollLeft() + $(this).innerWidth()>=$(this)[0].scrollWidth){
+          $(".nav-next").show();
+        } else {
+    		$(".nav-next").show();
+    	}
+
+    	if($val == 0){
+    		$(".nav-prev").show();
+    	} else {
+    		$(".nav-prev").show();
+    	}
+  	});
+	console.log( 'init-scroll: ' + $(".nav-next").scrollLeft() );
+	$(".nav-next").on("click", function(){
+		$(".cata-sub-nav").animate( { scrollLeft: '+=460' }, 200);
+		
+	});
+	$(".nav-prev").on("click", function(){
+		$(".cata-sub-nav").animate( { scrollLeft: '-=460' }, 200);
+	});
+
+	
+
+})(jQuery);
+
+</script>
+
+<script src="https://kfcbd.com/frontend/Scripts/bootstrap4.5.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("#abcd").modal('show');
+    });
+</script>
+</body>
+</html>

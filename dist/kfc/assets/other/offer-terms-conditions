@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Head Start -->
+<head wire:id="TxPvWUryzDpuUbazgsbO" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;TxPvWUryzDpuUbazgsbO&quot;,&quot;name&quot;:&quot;inc.head&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;offer-terms-conditions&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;7a014e5e&quot;,&quot;data&quot;:[],&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;ea65fc0ddc423ef175f101b07488faefe0ddd0984b2e6c09a37befb15bd8ebbd&quot;}}">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="apple-mobile-web-app-title" content="KFC Bangladesh"/>
+    <meta name="description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering.">
+    <meta name="keywords" content="KFC, Online Order, Online Ordering, Online Delivery, Take Away, Offer, Dine-in">
+    <meta name="apple-touch-fullscreen" content="yes"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="referrer" content="origin-when-crossorigin"/>
+    <meta name="msapplication-tooltip" content="KFC">
+    <meta name="msapplication-window" content="width=1024;height=768">
+    <meta name="application-name" content="KFC Online Ordering"/>
+    <meta name="msapplication-allowDomainApiCalls" content="true"/>
+    <meta name="msapplication-allowDomainMetaTags" content="true"/>
+    <meta name="msapplication-TileColor" content="#000000"/>
+    <meta name="author" content="Ismail, Tawhid and Shahabuddin">
+    <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+    <meta http-equiv="cleartype" content="on"/>
+    <meta name="csrf-token" content="t0mCGHIqv1NDXtSs3E85n3S5Wo7ZfoqcFxjtPkrL">
+    <meta name="google-site-verification" content="IJ7697ErkZwTPEa5kXBZ6S6hcIkV9euUeHsayMabBe8" />
+    <meta name="facebook-domain-verification" content="30e2uxe1hef84z2kkdm3k4zhsvko79"/>
+    <link rel="icon" type="image/png" sizes="16x16"  href="https://kfcbd.com/frontend/Content/OnlineOrderingImages/SEO/favicon-16x16.png"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://kfcbd.com/css/all.css">
+    <title>a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe</title>
+    
+    <!-- Open Graph Start -->
+    <meta property="og:description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:site_name" content="KFC Bangladesh" />
+    <meta property="og:title" content="a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kfcbd.com/" />
+    <meta property="og:image" content="https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg" />
+    <meta property="fb:app_id" content="729120935113559" />
+    <!-- Open Graph End -->
+
+    <!-- Twitter Start -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@kfcbd" />
+    <meta name="twitter:creator" content="@kfcbd, powerd by aamra infotainment ltd" />
+    <meta property="og:url" content="https://kfcbd.com/" />
+    <meta property="og:title" content="a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe" />
+    <meta property="og:description" content="Click to see the latest KFC Menu & Offers today. Order KFC online for Delivery, Take Away and Dine-In or download our KFC App for easy ordering." />
+    <meta property="og:image" content="https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg" />
+    <!-- Twitter End -->
+    
+    <!-- Schema Start -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://kfcbd.com/"
+    },
+    "headline": "a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing",
+    "description": "a subsidiary of Yum! Brands, is the world’s most popular chicken restaurant chain specializing in OriginalRecipe",
+    "image": "https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg",  
+    "author": {
+        "@type": "",
+        "name": "Powerd by aamra infotainment ltd",
+        "url": "https://aamrainfotainment.com/"
+    },  
+    "publisher": {
+        "@type": "Organization",
+        "name": "KFC Bangladesh",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://kfcbd.com/frontend/images/kfc_logo_for_fb.jpg"
+        }
+    },
+    "datePublished": ""
+    }
+    </script>
+    <!-- Schema End -->
+    
+    <link rel="canonical" href="https://kfcbd.com/offer-terms-conditions" />
+
+    <!------ End For Slider ---------->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css" integrity="sha512-3pIirOrwegjM6erE5gPSwkUzO+3cTjpnV9lexlNZqvupR64iZBnOOTiiLPb9M36zpMScbmUNIcHUqKD47M719g==" crossorigin="anonymous" />
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <style>
+        .carousel-item .col,
+        .carousel-item .col-sm,
+        .carousel-item .col-md {
+            margin: 8px;
+            height: 300px;
+            background-size: cover;
+            background-position: center center;
+        }
+
+
+    </style>
+    <style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style></livewire:styles>
+    <script src="/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" ></script><script data-turbo-eval="false" data-turbolinks-eval="false" >window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 't0mCGHIqv1NDXtSs3E85n3S5Wo7ZfoqcFxjtPkrL';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script></livewire:scripts>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MB8CL4QL1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MB8CL4QL1L');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KHQGC24');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1115002402510092');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1115002402510092&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</head>
+
+<!-- Livewire Component wire-end:TxPvWUryzDpuUbazgsbO --></livewire:inc.head>
+<!-- End Head -->
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHQGC24"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MB8CL4QL1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MB8CL4QL1L');
+</script>
+
+
+<script>
+    window.addEventListener('couponModel', event => {
+        (function($){
+            $('#couponsec').modal('hide');
+        })(jQuery);
+    })
+</script>
+
+<div id="app">
+    <input type="hidden" id="hdnDeviceType" value="">
+    <input type="hidden" id="hdnLanguage" value="en-US">
+    <div class="bar-loader position-fixed" id="bar-loader-layout" style="display: none;"></div>
+    <main class="">
+                    <div wire:id="LzA9Spz01nGBKpPUN13E" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;LzA9Spz01nGBKpPUN13E&quot;,&quot;name&quot;:&quot;inc.header&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;offer-terms-conditions&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[&quot;shoppingCartCount&quot;]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;a68e865b&quot;,&quot;data&quot;:{&quot;menu_active&quot;:[&quot;https:&quot;,&quot;&quot;,&quot;kfcbd.com&quot;,&quot;offer-terms-conditions&quot;],&quot;delivery_option&quot;:1,&quot;cartCount&quot;:0,&quot;total&quot;:0,&quot;location&quot;:&quot;Select Location&quot;,&quot;mode&quot;:&quot;Delivery&quot;,&quot;store_address&quot;:null},&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;2f6b2b76958d313ec2ca03aa0ab0d056f8de75dd5a12b8a7488a75f668e7b6a1&quot;}}" class="scope">
+    <header class="main-header aboveImage scope" id="primary-header">
+
+        <div class="top-header-bar">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo Portion -->
+                    <div class="col-md-4 col-4 pt-1 pb-1">
+                        <a href="/" class="logo-link d-block">
+                            <div class="logo-branding">
+                            </div>
+                        </a>
+                    </div>
+                    <!-- One Click Button -->
+                    <div class="col-md-8 col-7 offset-1 offset-md-0 d-flex align-items-center justify-content-end">
+                        <div class="row m-0">
+                            <div class="mr-3 mr-md-5 d-none">
+                                <a href="javascript:;" class="rewards-link float-left">
+                                    <div class="one-click-button"></div>
+                                </a>
+                            </div>
+                            <div class="d-none d-md-flex align-items-center">
+                                                                    <a class="auth-link font-weight-bold text-uppercase scope"
+                                       href="https://kfcbd.com/login">Sign
+                                        In </a>
+                                                            </div>
+                            <div class="d-flex d-md-none">
+                                <button class="btn btn-link bd-search-docs-toggle d-md-none p-0 ml-0 d-flex"
+                                        onclick="hbMenuClick()" id="hamburger_menu_button" type="button"
+                                        data-toggle="collapse" data-target="#bd-docs-nav"
+                                        aria-controls="bd-docs-nav" aria-expanded="false"
+                                        aria-label="Toggle docs navigation">
+                                    <div class="hamburger_menu_bg"></div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+            </div>
+
+<!-- Livewire Component wire-end:LzA9Spz01nGBKpPUN13E --></livewire:inc.header>
+            <!--Sticky Header and selected disposition End-->
+
+            <!-- Ham Menu -->
+
+            <div class="mobileMenu_overLay position-fixed d-none scope" onclick="hbMenuHide()">
+            </div>
+
+            <div class="onlyMobile_menu position-fixed p-4 col-9 h-100 scope">
+                <div class="headding_for_welcome_guest mb-5 scope">
+                                            <div class="auth-link scope">
+                            Welcome
+                            <div class="AmericanPurpose text-uppercase username ">Guest!</div>
+                            <div class="position-absolute profile_img_guest">
+                                <img title="KFC Profile Image" alt="KFC Profile Image"
+                                     class="w-100 img-fluid border border-dark rounded-circle scope"
+                                     src="https://kfcbd.com/frontend/Content/OnlineOrderingImages/Shared/profile.png">
+                            </div>
+                        </div>
+                                    </div>
+
+
+                <ul class="hamburger_menu list-unstyled h-100">
+
+                    <li class="scope">
+                                                    <a href="https://kfcbd.com/login" class="d-flex w-100 text-uppercase">
+                                <strong>
+                                    Sign In
+                                </strong>
+                            </a>
+                                            </li>
+
+
+                    <hr class="mt-2 mb-2">
+                    <li class="" data-site-navigation-selection-identifier="offers">
+                        <a href="#" class="d-flex w-100 text-uppercase"><strong>Offers</strong></a>
+                    </li>
+
+
+                    
+                  <!--====================== drop down menu================================ -->
+                    <div class="dropdown">
+                       <a href="#" class="dropdown-toggle font-kfc-mob"  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Menu
+                      </a>
+                      <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/chicken">Chicken</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/deals">Deals</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/burgers">Burgers</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/box-meals">BOX MEALS</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/snacks">Snacks</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/beverages">Beverages</a>
+                                                <a class="dropdown-kfc" href="https://kfcbd.com/menu/dips">Dips</a>
+                                                <!--a class="dropdown-kfc active-kfc " href="#">Chicken</a>
+                        <a class="dropdown-kfc " href="#">Deals</a>
+                        <a class="dropdown-kfc " href="#">Burgers</a>
+                        <a class="dropdown-kfc " href="#">Rice Bowlz</a>
+                        <a class="dropdown-kfc " href="#">Snacks</a>
+                        <a class="dropdown-kfc " href="#">Beverages</a>
+                        <a class="dropdown-kfc " href="#">Add-ons</a-->
+                         
+                      </div>
+                    </div>
+                    
+                    <!--====================== drop down menu end================================ -->   
+
+                    <!-- MobileAppSession -->
+                <!-- end MobileAppSession -->
+
+                    <hr class="mt-2 mb-2">
+                    <li class=""><a href="https://kfcbd.com/about-us" class="d-flex w-100 text-uppercase"><strong>About KFC</strong></a>
+                    </li>
+                    <!--li class=""><a href="#" class="d-flex w-100 text-uppercase"><strong>Gift Card</strong></a>
+                    </li-->
+                    <li class=""><a href="https://kfcbd.com/feedback/step01" target="_blank"
+                                    class="d-flex w-100 text-uppercase"><strong>Feedback</strong></a></li>
+                    <li class="">
+                        <a href="https://kfcbd.com/contact-us" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Contact
+                                Us
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/brand-terms-conditions" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Brand T &amp; C
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/offer-terms-conditions" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                FAQ
+                            </strong>
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="https://kfcbd.com/site-map" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                Site Map
+                            </strong>
+                        </a>
+                    </li>
+                    
+                    <li class="">
+                        <a href="https://kfcbd.com/shopner-pathshala" class="d-flex w-100 text-uppercase">
+                            <strong>
+                                KFC Shopner Pathshala
+                            </strong>
+                        </a>
+                    </li>
+
+                </ul>
+
+                <span class="mobileMenu_close position-absolute" id="hbMenuHide"></span>
+            </div>
+            <!-- end HamMenuEnable -->
+            <!-- Ham Menu -->
+        
+        <div wire:id="UGyfNcCiXDBaXtK57RiF" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;UGyfNcCiXDBaXtK57RiF&quot;,&quot;name&quot;:&quot;pages.offer&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;offer-terms-conditions&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;58b0527e&quot;,&quot;data&quot;:[],&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;6157e27476eb810ae745c0da5e7d35d77ecf56bb2b0997dbdfad5df1e9e10c55&quot;}}" class="menu-main ng-scope" ui-view="main">
+    <div class="container ng-scope" role="main">
+        <div class="row">
+            <div class="col-12">
+                <div class="AmericanPurpose text-uppercase font-weight-bold position-relative text-center contact_us_header">PROMOTIONS</div>
+            </div>
+            <div class="col-md-8 offset-md-2">
+                <h5 class="accordion_title">OFFERS T & C</h5>
+                <div id="accordion-faq-f" class="accordion-faq">
+                    <p>1. The ‘KFC portfolio’ promotion (“Promo”) is being jointly organized by Integrated Foods and Beverages Pvt. Ltd. (“IFBL”) and Transcom Foods Limited (“TFL”) (collectively “Organizers”). Promo is valid from August 31, 2023 to December 31, 2023 both dates inclusive, or till stocks last, whichever is earlier (“Promo Period”), in the territory of Bangladesh. Promo is valid only on the purchase of following products, hereinafter referred to as “Products”/” Promo Pack”: Kurkure (Taka 10 and Taka 25 packs) 
+                    </p>
+                    <p>2. Participation is optional. Product may also be available without this offer for limited period, subject to availability of stock. By participating in this Promo, you (hereinafter referred to as “Participant”/s agree to be legally bound by and abide by the Terms & Conditions stated herein (T&C). Participant(s) confirm and acknowledge that Participant(s) has read, understood and agree to confirm to these T&C. If Participant(s) does not agree to these T&C or are ineligible to participate, please do not participate in this Promo. Organizers reserve the right to amend, modify, change, add or terminate these T&C or discontinue this Promo without any further notice. 
+                    </p>
+                    <p>3. ELIGIBILITY: Promo is open to all Bangladesh citizens residing in Bangladesh, above 18 years of age. The Promo is not open to (a) the employees of Organizers and persons who are not "competent to contract" within the meaning of Bangladesh Contract Act 1872. Where it comes to the knowledge of Organizer(s) that any of the ineligible persons have participated in the Promo and/or received the Prize (as defined hereinafter), Organizers reserve the right to disqualify such person from the Promo and/or forfeit the Prize. 
+                    </p>
+                    <p>4. HOW TO PARTICIPATE AND PRIZE:</p>
+
+                    <p>(i) The Participant will need to purchase the Product (as defined above) during the Promo Period, to participate in the Promo, </p>
+                    <p>(ii) Participant shall visit any exclusive KFC outlet in Bangladesh, submit the empty Promo Pack(s) at the KFC ordering counter while purchasing any chicken food item from the said outlet (“Min. Purchase”). Participant will get one Hot and Crispy chicken piece worth Taka 159 (including VAT & applicable SD) free of cost (“Prize”), along with a Min. Purchase. </p>
+                    <p>(iii) A maximum of three Promo Packs can be submitted by one Participant under three separate Min. Purchases under this offer during each visit to a KFC outlet. </p>
+                    <p>(iv) One Min. Purchase will entitle the Participant to avail one Prize only. For availing the Prize more than once, the Participant shall make the relevant number of Min. Purchases under separate invoices.</p>
+                    <p>(v) Offer must be availed by 31st December, 2023 </p>
+                    <p>(vi) Offer valid only on dine-in and take away orders. <p>
+                    <p>(vii) One Promo Pack is valid for one transaction only, and once availed, the Promo Pack must be submitted to the KFC outlet. Damaged Promo Packs, mutilated or illegible Promo Packs, or packs not plying this offer, will not be accepted. <p>
+                    <p>(viii) Any participation without submitting the Promo Pack will not be considered to receive the Prize. </p>
+                    <p>(ix) The Prize can be redeemed only during the Promo Period, and latest till 23:59 hours BST on 31st December 2023</p>
+
+                    <p>5. The submission of valid Promo Packs at the KFC ordering counter as per Clause 4 (ii) above will be considered as the entry of the Participant. Entries are deemed to be submitted at the time of receipt of the Promo Packs by the KFC authorized personnel. </p>
+
+                    <p>6. It is clarified that in addition to these terms and conditions, the Participant shall at all times be bound by the terms and conditions as imposed by KFC on access to its outlets, purchase of products and services etc.</p>
+
+                    <p>7. Organizers shall not be responsible for failure to provide the Prize to the Participant(s) or any downtime in the KFC ordering system, caused due to technical or other factors attributable at the end of KFC that may occur for reasons including but not limited to failure of hardware equipment, manpower issue, force majeure such as strike/lockdown etc., decisions, change in marketing plans and / or changes in regulations that are carried out by any judicial or quasi-judicial or regulatory body. </p>
+
+                    <p>8. Subject to any applicable law (a) all warranties of any kind whatsoever, whether express or implied, are hereby expressly DISCLAIMED including, but not limited to, meeting of the Participant's requirements or aspirations, timeliness, security, the results or reliability of the Promo, delay in receiving the Prize or any other communication for participating in the Promo, delay in time taken for the process, or the delivery, quality, quantity, merchantability, fitness for use or a particular purpose or non-infringement in respect of any goods, services, benefits or awards acquired or obtained through the Promo or any transactions effected through the Promo; (b) the Participants expressly agree that participation in the Promo is at his/her sole risk and discretion and is governed by the terms and conditions herein; and (c) no advice or information whether by representations, oral, written or pictorial derived from the Promo Packs or KFC outlets including but not limited to creative and advertising material, shall be construed to mean the giving of any warranty of any kind whatsoever. Organizers do not make any commitment or warranty, express or implied to respond to any feedback, suggestion and/or queries of the Participant(s). </p>
+
+                    <p>9. TFL’s provision of the Offer is available on an ‘as is where is available’ basis and TFL makes no representation, guarantee or warranty regarding the availability, fitness for any specified purpose or error free operation of the KFC outlets. Access to KFC outlets availability may be affected due to various reasons including force majeure, acts of god, maintenance and repair work etc. </p>
+
+                    <p>10. The prizes are non-transferable, non-returnable, non-refundable and non-negotiable. No requests for transfer or assignment or redemption of the benefits shall be entertained. </p>
+
+                    <p>11. The offers under this Promo cannot be clubbed with any other offer. Prize cannot be exchanged with cash or any other form of compensation.</p>
+
+                    <p>12. The decision of Organizers shall be final with respect to all matters relating to this Promo and the benefits of this Promo. They shall not be subject to review or appeal by any customer or by any third party.</p>
+
+                    <p>13. All complaints/queries relating to the aspects of redemption of Promo Packs, redemption process, KFC outlets, KFC service, KFC products etc. shall be directly taken up by the Participants with TFL at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="402b26230034262c6e3432212e33232f2d22246e232f2d">[email&#160;protected]</a>.</p>
+
+                    <p>14. Any complaints/queries relating to Product shall be directly taken up by the Participants with IFBL as per the details on the Product Pack.</p>
+
+                   <p>15. GENERAL: THE PARTICIPANTS SHALL NOT BE ENTITLED TO PARTICIPATE IN THIS PROMO WHEREVER THE PROMO IS DECLARED INVALID OR ILLEGAL BY THE COURT OF COMPETENT JURISDICTION OR APPLICABLE LAW, AND THE PROMO SHALL NOT BE APPLICABLE AND /OR STANDS WITHDRAWN FORTHWITH IN SUCH JURISDICTION. The Organizers or their agencies are not required to entertain/respond to/comply with any communication/request/claim requiring the Organizer to provide any proof to any Participant or any other party, with respect to details of other Participants, prize won by other Participants etc. Such information will be strictly confidential and shall not be shared with any Participant or any other third party, except as directed by a competent legal authority. Decision of the Organizers will be final and binding with regard to Promo and no correspondence will be entertained in this regard. By participating in this Promo, it is deemed that the Participant has read, understood and agreed to these terms and conditions, and that the Participant unconditionally and irrevocably accepts and agrees to be bound by all these terms and conditions as stated herein. In the event that any person is found to be ineligible or in breach of these terms and conditions, then Organizers shall have the right, but not the obligation to disqualify such person from the Promo forthwith, with no obligation to compensate such person in any manner. Prize is not transferable and no cash payment (via legal tender notes or any other mode) will be made in lieu of the Prize. In the event of a death of a Participant, no claim from his/her nominees or legal heirs will be entertained for receiving the Prize. Organizers shall not be responsible for any loss, injury or any other liability arising out of the Promo. The Promo is subject to force majeure circumstances including without limitation, floods, natural disasters, war, and act of terror, political unrests, technical snags, epidemic, pandemic, quarantine restrictions, act of God, change of laws or technical errors or failure or any circumstance beyond the control of IFBL or TFL (“Force Majeure Event”). Organizers shall not be liable for any delay or adverse effect or failure or breach or damages or act or omission caused to this Promo or Participant(s) as a result of a Force Majeure Event. Where practicable, Organizers may intimate the suspension of the Promo caused as a result of such Force Majeure Event to the Participant(s) within reasonable time. Failure by IFBL and/or TFL to enforce any of its rights at any stage does not constitute a waiver of those rights. IFBL and/or TFL may assign any of its rights hereunder
+
+to any party without prior intimation to Participant(s). Participant(s) shall not assign any of its right or obligations hereunder to any other party. The Participant(s) shall indemnify and keep indemnified IFBL and TFL and their respective officers, directors, employees, customers, affiliates and agents harmless from and against any and all claims, losses, suits, proceedings, action, liabilities, damages, expenses and costs (including attorney’s fees and court costs) which IFBL/or TFL may incur, pay or become responsible for as a result of breach or alleged breach of the representations or obligations of the Participant(s) under this Promo and its T&C hereunder, any product or prize provided in connection therewith and/or any failure by the Participant(s) to comply with applicable law and any third party claim in respect of misuse of any information of a third party. IFBL/TFL shall have the right to defend themselves, pursuant to this clause, at the cost of the Participant(s). 
+                   </p>
+
+                    <p>16. All incidental costs, taxes or levies related to the Promo and Prize, if any, shall be exclusively borne by the Participants(s), including but not limited to shall bear all applicable charges, taxes and expenses for participation such as purchase of Promo Packs, Min. Purchase, TDS, gift tax (if any), insurance and any other taxes applicable by the Government of Bangladesh. </p>
+
+                    <p>17. Any Participant(s) providing any incorrect information or concealing/withholding any information from IFBL or TFL with intent to participate and/or be eligible for Prize under the Promo will automatically be disqualified from participating in Promo and being eligible for the Promo or any other offer or Prize. Such act of providing incorrect information or concealing/withholding any information, including without limitation incorrect declaration of information relating to name, age, identity etc. by the Participant(s) or dispute with KFC outlet shall entitle IFBL and TFL to disqualify the Participant from participating in the Promo without any further intimation or notice. </p>
+
+                    <p>18. Any dispute arising out of the Promo and or the T&C shall be attempted to be resolved amicably through negotiations with the IFBL and/or TFL representative(s). </p>
+
+                    <p>19. At the end of the Promo Period, all of Organizer’s obligations in regard to the Promo shall terminate. </p>
+
+                    <p>20. In no event the entire liability of Organizers towards a Participant under this Promo shall exceed the amount of maximum Prize value eligible to such Participant under this Promo. </p>
+
+                    <p>21. Organizers shall not be liable for any indirect, punitive, special, incidental or consequential damages arising out of or in connection with the Promo. </p>
+
+                    <p>22. The Promo and the T&C are subject to Bangladesh laws and the exclusive jurisdiction of the Courts in Dhaka. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Livewire Component wire-end:UGyfNcCiXDBaXtK57RiF -->
+    </main>
+            <div wire:id="YbIqBnbqAIWJSkNHPsQg" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;YbIqBnbqAIWJSkNHPsQg&quot;,&quot;name&quot;:&quot;inc.footer&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;path&quot;:&quot;offer-terms-conditions&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;a982f1d2&quot;,&quot;data&quot;:[],&quot;dataMeta&quot;:[],&quot;checksum&quot;:&quot;a3b4c362e3870a5902dcf0a534bac023d47cf9b7fe41093fc44482f9e2e746f3&quot;}}">
+    <footer>
+        <div class="container">
+            <div class="row pt-3 pb-3">
+                <!-- End of New Html-->
+
+                <nav class="navbar footer_navbar d-none d-md-flex justify-content-md-center justify-content-lg-start col-12 col-md-12 col-lg-12">
+                    <ul class="pl-0 mb-0 list-unstyled">
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/about-us" >ABOUT KFC</a>
+                        </li>
+                     
+
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/feedback/step01" >FEEDBACK</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/contact-us" >CONTACT
+                                US</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/brand-terms-conditions" >Brand T &amp; C</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/faq">FAQ</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold"
+                               href="https://kfcbd.com/offer-terms-conditions">OFFERS T & C</a>
+                        </li>
+                        <li class="nav-item float-left">
+                            <a class="nav-link text-uppercase font-weight-bold" href="https://kfcbd.com/store-locator">FIND A KFC</a>
+                        </li>
+                        <!--<li class="nav-item float-left">-->
+                        <!--    <a class="nav-link text-uppercase font-weight-bold" href="https://kfcbd.com/shopner-pathshala">KFC Shopner Pathshala</a>-->
+                        <!--</li>-->
+                    </ul>
+                </nav>
+                <div id="downloadable"
+                     class="downloadContent col-12 col-md-12 col-lg-4  d-flex justify-content-center justify-content-lg-end">
+                    <!--a class="downloadMobile d-inline-block" href="javascript:;"></a>
+                    <a class="downloadApple d-inline-block" href="javascript:;"
+                       target="_blank"></a>
+                    <a class="downloadAndroid d-inline-block"
+                       href="javascript:;" target="_blank"></a-->
+                </div>
+
+                <div class="col-12">
+                    <hr class="social_icon_devider w-100 mt-3 mb-3">
+                </div>
+
+
+                <div class="socialIcons col-md-12 col-lg-3 col-12 text-center text-md-left">
+                    <div class="col-8 offset-2 col-lg-8 offset-lg-0">
+                        <ul class="list-inline social-link row d-flex p-md-0 justify-content-between mb-0">
+                            <li class="d-inline-block">
+                                <a href="https://www.facebook.com/KFCBangladesh/" target="_blank">
+                                    <div class="fb_icon"></div>
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="https://www.instagram.com/kfcbd_official/" target="_blank">
+                                    <div class="insta_icon"></div>
+                                </a>
+                            </li>
+                            <li class="d-inline-block">
+                                <a href="https://www.youtube.com/c/KFCBangladesh" target="_blank">
+                                    <div class="youtube_icon"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="col-md-12 col-lg-5 text-center pt-3 pb-lg-5 pb-md-3 pt-lg-0 pb-lg-0">
+                    <a href="http://www.aamrainfotainment.com/" target="_blank" style="color: #686868;font-size: 12px;">Developed By | <img src="https://kfcbd.com/frontend/Content/images/logo-black.png" alt="" style="width: 50%"></a>
+                </div>
+
+                <div class="copyrightInfo col-md-12 col-lg-4 text-center text-lg-right pt-3 pb-5 pb-md-3 pt-lg-0 pb-lg-0  copy-rem">
+                    <span>© Copyright 2025 KFC. All Rights Reserved.</span>
+                </div>
+
+
+                <div class="col-12 copyrightInfo d-md-block pt-2 pb-lg-2 text-center text_rem pb-sm-5">
+                    Food shown are for illustration purpose only. Actual product may differ from the images shown in this website. <br>The KFC name, logos, and related marks are trademarks of KFC, Inc.
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid d-mobile-none">
+            <div class="row">
+                <div class="col-12 p-0 footer_strip w-100"></div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<!-- Livewire Component wire-end:YbIqBnbqAIWJSkNHPsQg --></livewire:inc.footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    window.addEventListener('swal:modal', event => {
+        swal({
+            title: event.detail.message,
+            text: event.detail.text,
+            icon: event.detail.type,
+        });
+    });
+</script>
+
+
+<script>
+    function openCloseHam() {
+        $(".ham-menu").toggleClass("open");
+    };
+
+    $(document).ready(function () {
+        $(".menu-row").find("a").click(function () {
+            if ($(this).attr("href") == "#") {
+                if ($(this).parent().hasClass("active")) {
+                    $(this).siblings('ul').slideUp();
+                    $(this).closest("ul").find("li").removeClass("active");
+                } else {
+                    $(this).closest("ul").find("ul").slideUp();
+                    $(this).siblings('ul').slideDown();
+                    $(this).closest("ul").find("li").removeClass("active");
+                    $(this).parent().addClass("active");
+                }
+            }
+        });
+
+        //For Stickey header
+
+        if ($("#secondary-header").length !== 0) {
+            window.onscroll = function () {
+                myFunction();
+            };
+            var navbar = document.getElementById("secondary-header");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky");
+                } else {
+                    navbar.classList.remove("sticky");
+                }
+            }
+        }
+
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c == 'startMyOrderHint') {
+                $('#firstTimeUser').removeClass('firstTimeUser');
+                $('#firstTimeUser').addClass('secondTimeUser');
+            }
+        }
+
+    });
+
+
+    function ShowSavedAddress(flag) {
+        if (flag) {
+            $('#openSavedAddressModal').addClass('open');
+        } else {
+            $('#openSavedAddressModal').removeClass('open');
+        }
+
+    }
+
+
+    function hbMenuHide(label, category) {
+
+        if (label) {
+            try {
+                dataLayer.push({
+                    'event': 'menu_navigation',
+                    'eventCategory': category,
+                    'eventAction': 'Click',
+                    'eventLabel': label
+                });
+            }
+            catch (err) {
+            }
+        }
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").removeClass("hamMenuOpen");
+    }
+</script>
+
+
+<script>
+    function hbMenuClick() {
+        $('.onlyMobile_menu').addClass("right-0");
+        $(".mobileMenu_overLay").removeClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+
+    function hbMenuRemove() {
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+</script>
+
+
+
+
+<div class="modal fade" id="locationDialog" data-backdrop="true" data-keyboard="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modalprop">
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var textOverImages = document.getElementsByClassName("onClickTextOverImage");
+    var previousTextOverImage;
+    for (var i = 0; i < textOverImages.length; i++) {
+        textOverImages[i].onclick = function () {
+            var classes = this.classList;
+            if (classes.contains("show")) {
+                classes.remove("show");
+            } else {
+                if (previousTextOverImage != null)
+                    previousTextOverImage.classList.remove("show");
+                previousTextOverImage = this;
+                classes.add("show");
+            }
+        }
+    }
+
+    function stopPropagation(event) {
+        event.stopPropagation();
+    }
+</script>
+
+
+<!-- Ad silder-->
+<script>
+    $(function () {
+        var current_pos;
+
+        $("#carousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#recommobcarousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#carouselrecom").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+</script>
+<script>
+    window.livewire.on('alert', param => {
+        toastr[param['type']](param['message']);
+    });
+</script>
+<script>
+    function openCloseHam() {
+        $(".ham-menu").toggleClass("open");
+    };
+
+    $(document).ready(function () {
+        $(".menu-row").find("a").click(function () {
+            if ($(this).attr("href") == "#") {
+                if ($(this).parent().hasClass("active")) {
+                    $(this).siblings('ul').slideUp();
+                    $(this).closest("ul").find("li").removeClass("active");
+                } else {
+                    $(this).closest("ul").find("ul").slideUp();
+                    $(this).siblings('ul').slideDown();
+                    $(this).closest("ul").find("li").removeClass("active");
+                    $(this).parent().addClass("active");
+                }
+            }
+        });
+
+        //For Stickey header
+
+        if ($("#secondary-header").length !== 0) {
+            window.onscroll = function () {
+                myFunction();
+            };
+            var navbar = document.getElementById("secondary-header");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky");
+                } else {
+                    navbar.classList.remove("sticky");
+                }
+            }
+        }
+
+
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c == 'startMyOrderHint') {
+                $('#firstTimeUser').removeClass('firstTimeUser');
+                $('#firstTimeUser').addClass('secondTimeUser');
+            }
+        }
+
+    });
+
+
+    function ShowSavedAddress(flag) {
+        if (flag) {
+            $('#openSavedAddressModal').addClass('open');
+        } else {
+            $('#openSavedAddressModal').removeClass('open');
+        }
+
+    }
+
+
+    function hbMenuHide(label, category) {
+
+        if (label) {
+            try {
+                dataLayer.push({
+                    'event': 'menu_navigation',
+                    'eventCategory': category,
+                    'eventAction': 'Click',
+                    'eventLabel': label
+                });
+            }
+            catch (err) {
+            }
+        }
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").removeClass("hamMenuOpen");
+    }
+
+    function postHamburgerClick() {
+        var dictionayData = {"key": "isHamMenuClicked", "value": "Y"};
+        if ($('#hdnDeviceType').val() !== undefined && $('#hdnDeviceType').val() !== '') {
+            if ($('#hdnDeviceType').val().toLowerCase() === "ios") {
+                window.webkit.messageHandlers.invokeAction.postMessage(JSON.stringify(dictionayData));
+            }
+            else {
+                jsBridge.invokeAction(JSON.stringify(dictionayData));
+            }
+        }
+    }
+
+    function PostLogin(name) {
+        var dictionayData = {"key": "Name", "value": name};
+        if ($('#hdnDeviceType').val() !== undefined && $('#hdnDeviceType').val() !== '') {
+            if ($('#hdnDeviceType').val().toLowerCase() === "ios") {
+                window.webkit.messageHandlers.invokeAction.postMessage(JSON.stringify(dictionayData));
+            }
+            else {
+                jsBridge.invokeAction(JSON.stringify(dictionayData));
+            }
+        }
+    }
+
+</script>
+
+
+<script>
+    function hbMenuClick() {
+        $('.onlyMobile_menu').addClass("right-0");
+        $(".mobileMenu_overLay").removeClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+
+    function hbMenuRemove() {
+        $('.onlyMobile_menu').removeClass("right-0");
+        $(".mobileMenu_overLay").addClass("d-none");
+        $("body").addClass("hamMenuOpen");
+    }
+</script>
+
+
+<div class="modal fade" id="locationDialog" data-backdrop="true" data-keyboard="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content modalprop">
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var textOverImages = document.getElementsByClassName("onClickTextOverImage");
+    var previousTextOverImage;
+    for (var i = 0; i < textOverImages.length; i++) {
+        textOverImages[i].onclick = function () {
+            var classes = this.classList;
+            if (classes.contains("show")) {
+                classes.remove("show");
+            } else {
+                if (previousTextOverImage != null)
+                    previousTextOverImage.classList.remove("show");
+                previousTextOverImage = this;
+                classes.add("show");
+            }
+        }
+    }
+
+    function stopPropagation(event) {
+        event.stopPropagation();
+    }
+</script>
+
+
+
+<!-- Ad silder-->
+<script>
+    $(function () {
+        var current_pos;
+
+        $("#carousel").owlCarousel({
+            items: 1,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#recommobcarousel").owlCarousel({
+            items: 2,
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $("#carouselrecom").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:2
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:3
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+    $(function () {
+        var current_pos;
+
+        $(".addon").owlCarousel({
+            mouseDrag: false,
+            touchDrag: false,
+            autoplay: false,
+            autoplayTimeout: 2000,
+            nav: true,
+            navText: ["", ""],
+            dots: false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                576:{
+                    items:2
+                },
+                768:{
+                    items:2
+                },
+                768:{
+                    items:2
+                },
+                1200:{
+                    items:2
+                }
+            },
+            onInitialized: function (e) {
+                current_pos = e.item.index;
+            },
+            onTranslate: function (e) {
+                var direction = e.item.index > current_pos ? 1 : 0,
+                    indicator_c = direction ? "next" : "prev",
+                    $dots = $(e.currentTarget).find(".owl-dots"),
+                    $current_dot = $dots.children().eq(current_pos);
+
+                $current_dot.html('<div class="dot-indicator ' + indicator_c + '">');
+
+                current_pos = e.item.index;
+
+                setTimeout(function () {
+                    $current_dot.html("");
+                }, 200);
+            }
+        });
+    });
+
+</script>
+
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $('#myOffer007').modal('show');
+    });
+</script>
+<script>
+    console.log('%c aamra infotainment Limited ', 'background: #000; font-weight:500; color: #fff');
+</script>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+    (function($) {
+
+	$(".cata-sub-nav").on('scroll', function() {
+    	$val = $(this).scrollLeft();
+
+    	if($(this).scrollLeft() + $(this).innerWidth()>=$(this)[0].scrollWidth){
+          $(".nav-next").show();
+        } else {
+    		$(".nav-next").show();
+    	}
+
+    	if($val == 0){
+    		$(".nav-prev").show();
+    	} else {
+    		$(".nav-prev").show();
+    	}
+  	});
+	console.log( 'init-scroll: ' + $(".nav-next").scrollLeft() );
+	$(".nav-next").on("click", function(){
+		$(".cata-sub-nav").animate( { scrollLeft: '+=460' }, 200);
+		
+	});
+	$(".nav-prev").on("click", function(){
+		$(".cata-sub-nav").animate( { scrollLeft: '-=460' }, 200);
+	});
+
+	
+
+})(jQuery);
+
+</script>
+
+<script src="https://kfcbd.com/frontend/Scripts/bootstrap4.5.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("#abcd").modal('show');
+    });
+</script>
+</body>
+</html>
